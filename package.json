@@ -1,5 +1,5 @@
 {
-  "name": "random-meaning-words",
+  "name": "random-meaning-word",
   "version": "2.0.1",
   "description": "Generate one or more common English words",
   "main": "index.js",
